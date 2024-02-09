@@ -1,0 +1,1 @@
+This repository contains small projects I have been working on. Although these projects are compact, they serve as a means for me to explore libraries like Scikit-learn, practice my data cleaning skills, and explore different functions to enhance my overall coding experience
